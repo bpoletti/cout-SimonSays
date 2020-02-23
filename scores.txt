@@ -1,0 +1,5 @@
+Ted 50
+Megan 60
+Bob 60
+Amber 120
+Alex 168
